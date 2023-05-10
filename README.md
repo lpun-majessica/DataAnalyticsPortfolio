@@ -4,4 +4,4 @@ You can find a collection of data analytics projects that I've worked on in this
 
 ## Content
 
-- **SQL:** All of my projects using SQL, including data cleaning, data exploration, etc.
+- **SQL:** All of my projects using SQL, including data cleaning, exploratory data analysis, etc.
